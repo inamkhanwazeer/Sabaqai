@@ -16,7 +16,7 @@ if 'count' not in st.session_state:
 
 st.sidebar.markdown("**Roz 5 Sawal FREE** ✅")
 st.sidebar.markdown("Unlimited: 99 Rs/mahina")
-st.sidebar.markdown("JazzCash: 0300-XXXXXXX")
+st.sidebar.markdown("Nayapay: 03288508483")
 
 # Pic upload
 pic = st.file_uploader("Book ki pic upload karein 👇", type=["jpg","png","jpeg"])
